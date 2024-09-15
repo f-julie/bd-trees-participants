@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ParticipantTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-15T19:34:26" hostname="DESKTOP-URGQT26" time="0.028">
+  <properties/>
+  <testcase name="toString_newParticipant_returnsParticipant()" classname="ParticipantTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
