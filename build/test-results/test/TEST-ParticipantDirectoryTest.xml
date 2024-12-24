@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ParticipantDirectoryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-12-24T18:58:57" hostname="DESKTOP-URGQT26" time="0.043">
+  <properties/>
+  <testcase name="getRosterByUsername_multipleParticipants_returnsSortedRoster()" classname="ParticipantDirectoryTest" time="0.025"/>
+  <testcase name="getParticipantByID_multipleParticipants_returnsParticipant()" classname="ParticipantDirectoryTest" time="0.003"/>
+  <testcase name="getRosterByID_multipleParticipants_returnsSortedRoster()" classname="ParticipantDirectoryTest" time="0.004"/>
+  <testcase name="getParticipantByUsername_multipleParticipants_returnsParticipant()" classname="ParticipantDirectoryTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
